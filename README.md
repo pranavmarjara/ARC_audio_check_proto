@@ -19,3 +19,12 @@ A grammar-constrained Hindi speech intelligibility scoring system using Vosk (Ka
 
 4. Run:
    python score_z.py
+
+## Download Hindi ASR Model
+Download and extract inside the project folder:
+
+https://alphacephei.com/vosk/models/vosk-model-small-hi-0.22.zip
+
+After extracting, you should have:
+
+vosk-model-small-hi-0.22/   
