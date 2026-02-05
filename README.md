@@ -28,3 +28,10 @@ https://alphacephei.com/vosk/models/vosk-model-small-hi-0.22.zip
 After extracting, you should have:
 
 vosk-model-small-hi-0.22/   
+
+## Example Output
+
+===== SESSION RESULT =====
+Words tested : 15
+Correct      : 15
+Session Z score : 100.00
