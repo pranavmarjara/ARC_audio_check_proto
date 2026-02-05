@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Model (hundreds of MB)
+vosk-model-small-hi-0.22/
+
+# Recordings
+audio_16k/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+*.zip
